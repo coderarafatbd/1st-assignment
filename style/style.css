@@ -1,0 +1,63 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  max-width:1920px;
+
+  font-family: 'Merriweather', serif;
+}
+.container{
+ width: 1320px;
+ height: 600px;
+ position: relative;
+ margin-top: 50px;
+ margin-left: 195px;
+ background-color: transparent;
+ justify-content: space-between;
+}
+.banner-img{
+ 
+  position: absolute;
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 100%, rgba(16, 13, 13, 0.124) 50%);
+
+}
+.banner-container{
+  
+  width: 632px;
+  height: 246px;
+  left: 344px;
+  top: 177px;
+  position: absolute;
+ 
+  
+}
+
+.wish-text{
+  left: 186px;
+  top: 0px;
+  position:absolute; 
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  font-family: Merriweather;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.party-text{
+ width: 632px;
+ left: 0px;
+  top: 56px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 72px;
+  font-family: Merriweather;
+  font-weight: 900; 
+  word-wrap: break-word;
+       
+
+}
+

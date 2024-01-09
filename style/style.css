@@ -21,7 +21,7 @@
  
   position: absolute;
   border-radius: 16px;
-  background: linear-gradient(180deg, #070211 100%, rgba(16, 13, 13, 0.124) 50%);
+  background: linear-gradient(rgb(7, 2, 17) 0%, rgba(7, 2, 17, 0) 100%);
 
 }
 .banner-container{
